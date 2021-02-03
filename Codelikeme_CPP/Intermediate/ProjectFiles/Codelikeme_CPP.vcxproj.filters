@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Codelikeme_CPP.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{635C021D-41BD-46FD-A34B-0C8E8E340EC6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Codelikeme_CPP.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Codelikeme_CPPEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{2143E55F-4C51-4DF8-9404-BD016EC973D2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Codelikeme_CPP">
+      <UniqueIdentifier>{96EECE08-9197-4C6D-8090-D567888EF120}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Codelikeme_CPP\Codelikeme_CPP.Build.cs">
+      <Filter>Source\Codelikeme_CPP</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Codelikeme_CPP\Codelikeme_CPP.cpp">
+      <Filter>Source\Codelikeme_CPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Codelikeme_CPP\Codelikeme_CPP.h">
+      <Filter>Source\Codelikeme_CPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Codelikeme_CPP\Codelikeme_CPPCharacter.cpp">
+      <Filter>Source\Codelikeme_CPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Codelikeme_CPP\Codelikeme_CPPCharacter.h">
+      <Filter>Source\Codelikeme_CPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Codelikeme_CPP\Codelikeme_CPPGameMode.cpp">
+      <Filter>Source\Codelikeme_CPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Codelikeme_CPP\Codelikeme_CPPGameMode.h">
+      <Filter>Source\Codelikeme_CPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Codelikeme_CPP\CPP_Character.cpp">
+      <Filter>Source\Codelikeme_CPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Codelikeme_CPP\CPP_Character.h">
+      <Filter>Source\Codelikeme_CPP</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

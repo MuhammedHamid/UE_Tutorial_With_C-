@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\MyTrainings\\UE_Tutorial_With_C-\\Codelikeme_CPP\\Source\\Codelikeme_CPP\\Codelikeme_CPP.Build.cs",
+		"D:\\MyTrainings\\UE_Tutorial_With_C-\\Codelikeme_CPP\\Source\\Codelikeme_CPP.Target.cs",
+		"D:\\MyTrainings\\UE_Tutorial_With_C-\\Codelikeme_CPP\\Source\\Codelikeme_CPPEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}
